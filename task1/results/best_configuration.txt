@@ -1,0 +1,21 @@
+Image Size: 512
+AUC: 0.8318
+Best Threshold: 0.35
+Recall: 0.8967
+Precision: 0.8679
+F1-Score: 0.8820
+
+Image Size: 608
+AUC: 0.8360
+Best Threshold: 0.15
+Recall: 0.9151
+Precision: 0.8378
+F1-Score: 0.8748
+
+Image Size: 800
+AUC: 0.8483
+Best Threshold: 0.75
+Recall: 0.8745
+Precision: 0.8977
+F1-Score: 0.8860
+
